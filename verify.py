@@ -20,9 +20,9 @@ def cpf_validate(numbers):
 print("-=" * 20)
 print("CPF VALIDATION")
 print("-=" * 20)
-cpf = input('Digite o CPF: ')
+cpf = input('CPF: ')
 if cpf_validate(cpf):
-    print('CPF válido.')
+    print('This CPF is FALSE.')
 else:
-    print('CPF inválido.')
+    print('This CPF is TRUE.')
 
