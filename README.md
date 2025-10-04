@@ -1,1 +1,5 @@
-# Validation-CPF
+## Validation-CPF
+---
+
+## DEPENDENCIES
+- pip install random
