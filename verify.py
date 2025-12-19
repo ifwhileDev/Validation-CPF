@@ -20,7 +20,7 @@ print("CPF VALIDATION")
 print("-=" * 20)
 cpf = input('CPF: ')
 if cpf_validate(cpf):
-    print('This CPF is FALSE.')
+    print('CPF = FALSE.')
 else:
-    print('This CPF is TRUE.')
+    print('CPF = TRUE.')
 
