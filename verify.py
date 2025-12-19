@@ -1,5 +1,3 @@
-from random import randint
-
 def cpf_validate(numbers):
     cpf = [int(char) for char in numbers if char.isdigit()]
 
